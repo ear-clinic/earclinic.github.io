@@ -441,7 +441,10 @@
 	}
 	.demo-2 .bg-img {
 		padding: 200px 200px 0px 200px;
-		height: 70%;
+		height: 90vh;
+	}
+	.phone{
+		top: 100px !important;
 	}
 	.demo-2 .sl-slider-wrapper {
 		height: 550px;
