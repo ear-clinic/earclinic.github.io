@@ -814,7 +814,7 @@
     text-align: right;
 }
 
-@media (min-width: 1365px){
+@media (min-width: 1400px){
 	.phone{
 		top: 150px;
 	}
