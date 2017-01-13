@@ -54,7 +54,7 @@ button.btn.btn-primary {
 	color:#8F44AD;
 	border:none;
 	background:transparent;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	outline:none;
 	font-size:16px;
 	padding:0;
@@ -96,11 +96,11 @@ button.btn.btn-primary:focus {
 }
 .contact-info ul li {
 	display:inline-block;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	font-size:15px;
 }
 .contact-info ul li a{
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	color:#000;
 	vertical-align:text-bottom;
 }
@@ -137,7 +137,7 @@ button.close {
 .package p {
 	font-size: 15px;
     color: #472654;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .package i {
 	font-size:50px;
@@ -235,7 +235,7 @@ button.close {
     transition: all 0.4s ease-in-out;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
     text-decoration: none;
@@ -312,7 +312,7 @@ button.close {
     white-space: nowrap;
     color: #fff;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	font-weight:400;
 	margin:5px 0;
 	text-align: center;
@@ -698,7 +698,7 @@ p.stats-info {
 }
 .opening-hours ul li {
 	display: inline-block;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14px;
     color: #ADADAD;
     font-weight: 400;
@@ -726,7 +726,7 @@ p.stats-info {
 	font-size: 15px;
     color: #ADADAD;
     font-weight: 400;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	margin-bottom:30px;
 }
 .help a {
@@ -753,7 +753,7 @@ p.stats-info {
     font-weight: 600;
 }
 .abt-dec p {
-   font-family: 'Poiret One', "Open Sans";
+   font-family: 'Poiret One';
   font-size: 20px;
   line-height: 28px;
   color: #757475;
@@ -761,7 +761,7 @@ p.stats-info {
   margin: 20px 0 20px;
 }
 p.diff {
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-style: italic;
     margin: 23px 0 26px 0;
     line-height: 23px;
@@ -913,7 +913,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 .ser-info p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -955,7 +955,7 @@ div.bhoechie-tab div.bhoechie-tab-content:not(.active){
 .our-news p {
 	font-size: 15px;
     margin: 18px 0 40px 0;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #A9A9A9;
     letter-spacing: 1px;
     font-weight: 300;
@@ -1046,7 +1046,7 @@ a.link {
 .news-section-head p{
 	font-size: 15px;
     margin: 18px 0 40px 0;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #A9A9A9;
     letter-spacing: 1px;
     font-weight: 300;
@@ -1075,7 +1075,7 @@ a.news-title:hover {
 .info p{
 	color: #777;
     font-size: 14.5px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 26px;
     margin-top: 8px;
@@ -1118,7 +1118,7 @@ a.more:hover {
 .appointment-left p {
 	color: #C1C1C1;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     margin-top: 8px;
 }
@@ -1157,7 +1157,7 @@ a.more:hover {
 	-o-border-radius: 0;
 }
 .head_4 p {
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 25px;
     color: #A2A1A2;
@@ -1177,7 +1177,7 @@ a.more:hover {
     color: #9C9C9C;
     font-weight: 500;
     padding: 10px 15px 10px 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .modal-body textarea {
     background: none;
@@ -1191,7 +1191,7 @@ a.more:hover {
     font-weight: 500;
     margin: 0 5px 15px 5px;
     padding: 10px 15px 10px 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .modal-body input[type="submit"] {
         margin-top: 10px;
@@ -1235,7 +1235,7 @@ a.more:hover {
 .subscribe p {
 	color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
 	width:80%;
 	margin:20px auto 30px;
@@ -1311,7 +1311,7 @@ p.adam{
 	color: #828282;
     line-height: 26px;
     font-size: 14px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .footer.two ul{
 	margin:0;
@@ -1361,7 +1361,7 @@ p.adam{
 .footer.two ul li a{
 	color:#908F8F;	
 	display:block;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	text-decoration:none;
 }
 .footer.three ul li i {
@@ -1376,7 +1376,7 @@ p.adam{
     color: #908F8F;
     font-size: 14px;
     line-height: 33px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	float:left;
 	margin-left:15px;
 }
@@ -1409,7 +1409,7 @@ p.adam{
     color: #828282;
     line-height: 24px;
     font-size: 14px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     text-decoration: none;
 }
 .tweet ul li a i{
@@ -1433,7 +1433,7 @@ p.adam{
 .footer.three ul li a {
     display: block;
 	color:#908F8F;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	float: left;
 	margin-lefT: 15px;
 	margin-top: 5px;
@@ -1543,7 +1543,7 @@ div#map iframe {
 .abt-grid p {
 	color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 26px;
 	margin-top:18px;
@@ -1583,7 +1583,7 @@ section.happy-patients {
     color: #F81E98;
     font-size: 36px;
     margin-top: 10px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     letter-spacing: 2px;
 }
@@ -1736,7 +1736,7 @@ section.happy-patients {
     color: #FDF6FF;
     letter-spacing: 1px;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 24px;
 }
@@ -1825,7 +1825,7 @@ h3.title {
 p.w-text {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 26px;
     margin-top: 18px;
@@ -1843,7 +1843,7 @@ p.w-text {
 .team-grids p {
     color: #777;
     font-size: 14.5px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 22px;
 	margin-bottom:25px;
@@ -1926,7 +1926,7 @@ li.tick {
     background: url(../images/tick.png)no-repeat 0px 0px;
     height: 31px;
     padding: 0 0 0 28px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     letter-spacing: 1px;
     font-size: 15px;
     color: #777;
@@ -2387,7 +2387,7 @@ Javascript disabled
 	    margin-left: 17px;
     padding: 0px 15px 15px;
     line-height: 28px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     color: #6D682D;
     font-weight: 300;
@@ -2395,7 +2395,7 @@ Javascript disabled
 .panel-title {
     font-size: 18px;
 	color: #000;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .panel-title:hover {
      cursor: pointer;
@@ -2414,7 +2414,7 @@ Javascript disabled
     margin-left: 17px;
     padding: 0px 15px 15px;
     line-height: 28px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     color: #6D682D;
     font-weight: 300;
@@ -2444,11 +2444,11 @@ Javascript disabled
     font-size: 14px;
     letter-spacing: 1px;
     font-weight: 400;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 h3.last-updated {
     font-size: 22px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #FFFFFF;
     margin-bottom: 30px;
     text-transform: uppercase;
@@ -2476,7 +2476,7 @@ h3.last-updated {
 .terms p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -2485,7 +2485,7 @@ h3.last-updated {
 .terms ol li {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 26px;
     margin-top: 15px;
@@ -2535,7 +2535,7 @@ h3.last-updated {
 p.m_13 {
     padding-left: 40px;
     margin-bottom: 50px;	
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 28px;
     color: #A2A1A2;
@@ -2566,7 +2566,7 @@ p.last_2{
     padding: 70px 0;
 }
 .typrography h1, .typrography h2, .typrography h3, .typrography h4, .typrography h5, .typrography h6 {
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .mb-60 {
     padding-left: 0;
@@ -2799,7 +2799,7 @@ ol {
     margin: 50px 0 20px 0;
 }
 .column_grid p {
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 28px;
     color: #A2A1A2;
@@ -2821,7 +2821,7 @@ ol {
 .technologies p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -2843,7 +2843,7 @@ ol {
     padding-left: 0;
     cursor: pointer;
     letter-spacing: 1px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 400;
 }
 .panel_text {
@@ -2879,7 +2879,7 @@ span.glyphicon.glyphicon-menu-down {
 .instruments p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -3006,7 +3006,7 @@ span.glyphicon.glyphicon-menu-down {
 	letter-spacing:3px;
 }
 .ins-name p {
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 28px;
     color: #A2A1A2;
@@ -3021,14 +3021,14 @@ p.left {
     margin-right: 5%;
     width: 35%;
     font-weight: 600;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 p.right {
     font-size: 14px;
     float: left;
     color: #949494;
     letter-spacing: 2px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .span1 {
     margin: 18px 0;
@@ -3074,7 +3074,7 @@ p.right {
 	font-size: 22px;
     color: #8F44AD;
     margin: 0 0 20px 0;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     letter-spacing: 1px;
 }
 .news-left ol{
@@ -3084,7 +3084,7 @@ p.right {
 .news-left ol li{
 	color: #000;
 	margin: 0 0 10px 16px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 27px;
     font-weight: 300;
@@ -3094,7 +3094,7 @@ p.right {
     color: #000;
     margin: 0 0 10px 10px;
     line-height: 27px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
 }
 h3.p-c-text {
@@ -3185,7 +3185,7 @@ h5.widget-title {
     color: #8F44AD;
     font-weight: 400;
     margin-bottom: 14px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .widget-content span{
 	color: #555;
@@ -3206,7 +3206,7 @@ select.form-control.jb_1 {
 	-o-border-radius: 0;
     box-shadow: none;
     color: #999;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 input.form-control.jb_2 {
     padding: 6px 12px;
@@ -3218,7 +3218,7 @@ input.form-control.jb_2 {
 	-o-border-radius: 0;
     box-shadow: none;
     color: #999;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .jobs_pagination{
 	margin:0;
@@ -3237,14 +3237,14 @@ input.form-control.jb_2 {
 }
 h6.title a {
     color: #000;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 h6.title {
     font-size: 20px;
     margin-bottom: 3px;
     font-weight: 500;
     text-transform: capitalize;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	color:#000;
 }
 h6.job-title {
@@ -3252,7 +3252,7 @@ h6.job-title {
     margin-bottom: 3px;
     font-weight: 500;
     text-transform: capitalize;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #000;
 }
 .tab_grid {
@@ -3265,7 +3265,7 @@ p.description {
     margin-bottom: 10px;
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 5px;
@@ -3275,7 +3275,7 @@ p.job-desc{
     margin-bottom: 10px;
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -3311,7 +3311,7 @@ p.job-desc{
 .job-summary ol li {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 23px;
     margin-top: 15px;
@@ -3326,7 +3326,7 @@ p.job-desc{
 .skill-req ul li {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 24px;
     margin-top: 15px;
@@ -3346,7 +3346,7 @@ p.job-desc{
 .qualification p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 24px;
     margin-top: 15px;
@@ -3361,7 +3361,7 @@ p.job-desc{
 }
 .job-contact p {
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 24px;
     margin-top: 15px;
@@ -3386,7 +3386,7 @@ p.job-desc{
 .page_404 p {
 	text-shadow: none;
     letter-spacing: 1px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 17px;
     line-height: 28px;
     color: #000000;
@@ -3424,7 +3424,7 @@ div#breadcrumb_wrapper h2 {
 	font-size: 33px;
 	letter-spacing:2px;
 	margin-bottom: 10px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 	color:#fff;
 }
 div#breadcrumb_wrapper h6 {
@@ -3471,7 +3471,7 @@ a.blog-post {
 }
 .blog-grid p{
     color: #fff;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 28px;
     letter-spacing: 3px;
@@ -3616,7 +3616,7 @@ a.blog-post1 img {
 	margin-right:5px;
 }
  p.eget {
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
     font-size: 15px;
     line-height: 28px;
     color: #A2A1A2;
@@ -3634,7 +3634,7 @@ ul.share li {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 1px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 ul.share li:nth-child(1) {
 	    vertical-align: middle;
@@ -3665,7 +3665,7 @@ p.men-it{
     line-height: 1.6em;
     padding: 16px 0;
     font-weight: 300;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     letter-spacing: 1px;
     font-size: 15px;
     color: #7D7777;
@@ -3682,7 +3682,7 @@ p.smith{
 	font-size:1em;
 }
 p.smith a{
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
     letter-spacing: 1px;
     font-size: 15px;
     color: #8F44AD;
@@ -3695,7 +3695,7 @@ p.smith  span{
 	font-weight: 400;
     padding: 0 25px;
     color: #7f8c8c;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     letter-spacing: 1px;
     font-size: 15px;
 }
@@ -3737,7 +3737,7 @@ p.reply i{
     color: #9A9A9A;
     font-weight: 500;
     padding: 10px 15px 10px 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .leave textarea{
 	resize:none;
@@ -3766,7 +3766,7 @@ p.reply i{
 }
 .leave p{
 	width: 80%;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     letter-spacing: 1px;
     font-size: 15px;
     line-height: 26px;
@@ -3862,7 +3862,7 @@ p.reply i{
     letter-spacing: 3px;
     font-weight: 600;
     color: #FFF;
-    font-family: 'Poiret One', cursive;
+font-family: 'Poiret One';
     background: #000A10;
 }
 .test-list td {
@@ -3871,7 +3871,7 @@ p.reply i{
 }
 .test-list tr {
     font-size: 16px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	font-weight:300;
 }
 /*-- /test-menu --*/
@@ -3903,7 +3903,7 @@ p.reply i{
     letter-spacing: 3px;
     font-weight: 600;
     color: #000;
-    font-family: 'Poiret One', cursive;
+font-family: 'Poiret One';
 }
 .test-desc td {
     font-size: 18px;
@@ -3911,13 +3911,13 @@ p.reply i{
 }
 .test-desc tr {
     font-size: 16px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 	font-weight:300;
 }
 .test-desc p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 25px;
@@ -3930,7 +3930,7 @@ p.reply i{
 .clinic-significant ol li {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 26px;
     margin-top: 15px;
@@ -3947,7 +3947,7 @@ p.reply i{
 /*-- book-a-test --*/
 .test-booking {
 	padding:70px 0;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 .test-booking form label {
     font-size: 18px;
@@ -4046,7 +4046,7 @@ p.reply i{
 .preventive-desc p {
 	color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 12px;
@@ -4060,7 +4060,7 @@ p.update {
     color: #7D7777;
     font-size: 14px;
     letter-spacing: 1px;
-font-family: 'Poiret One', "Open Sans";
+font-family: 'Poiret One';
     margin-bottom: 15px;
 }
 input#c1 {
@@ -4090,7 +4090,7 @@ input#c1 {
     margin: 20px 0 0px 0;
     color: #000;
     font-size: 20px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     letter-spacing: 1px;
@@ -4111,7 +4111,7 @@ input#c1 {
 	margin-bottom: 12px;
     letter-spacing: 1px;
     font-size: 22px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #BBA933;
 }
 .app-bottom-grids {
@@ -4128,7 +4128,7 @@ input#c1 {
 .app-bottom-grid p {
     color: #777;
     font-size: 15px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 28px;
     margin-top: 15px;
@@ -4173,7 +4173,7 @@ input#c1 {
 .sitemap-grid ul li a {
     color: #000;
     font-size: 17px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 300;
     line-height: 32px;
     text-decoration: none;
@@ -4214,7 +4214,7 @@ ul.sub-child li a {
     font-size: 15px;
 	width:65%;
 	margin:17px auto 0;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     color: #A9A9A9;
     letter-spacing: 1px;
     font-weight: 300;
@@ -4256,7 +4256,7 @@ label.test-info {
     margin-top: 10px;
     display: BLOCK;
     font-weight: 400;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .forgot {
     margin: 10px 0 10px;
@@ -4295,7 +4295,7 @@ label.test-info {
 	color: #212121;
     font-size: 14px;
     text-decoration: none;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .forgot a:hover{
 	color:#8F44AD;
@@ -4317,14 +4317,14 @@ label.test-info {
     margin: 10px 0 20px 0;
     display: BLOCK;
     font-weight: 400;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
 }
 .login p a{
 	color: #8F44AD;
     text-decoration: none;
     font-size: 16px;
     padding: 0 8px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-weight: 400;
 }
 .login p a:hover{
@@ -4361,7 +4361,7 @@ label.test-info {
 .contact-infom p {
   	text-align: left;
     letter-spacing: 1px;
-    font-family: 'Poiret One', "Open Sans";
+    font-family: 'Poiret One';
     font-size: 14.5px;
     line-height: 28px;
     color: #A2A1A2;
@@ -4374,7 +4374,7 @@ label.test-info {
 }
 .address p {
 	text-align: left;
-  font-family: 'Poiret One', "Open Sans";
+  font-family: 'Poiret One';
   font-size: 14.5px;
   line-height: 26px;
   color: #2C2A2C;
@@ -4409,7 +4409,7 @@ label.test-info {
     color: #747577;
     font-weight: 500;
     padding: 10px 15px 10px 15px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 .contact-form input[type="email"] {
 	display: inline-block;
@@ -4422,7 +4422,7 @@ label.test-info {
     color: #747577;
     font-weight: 500;
     padding: 10px 15px 10px 15px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 .contact-form textarea {
 	background: none;
@@ -4435,7 +4435,7 @@ label.test-info {
 	color: #747577;
 	font-weight: 500;
 	padding: 10px 15px 10px 15px;
-	font-family: 'Poiret One', "Open Sans";
+	font-family: 'Poiret One';
 }
 .contact-form input[type="submit"]{
 	background: #FFDD00;
