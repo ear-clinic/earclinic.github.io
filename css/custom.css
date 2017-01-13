@@ -772,13 +772,16 @@
 	text-align: center;
 	font-size: 16px;
 	padding-bottom: 15px;
+	font-weight: 100;
+    font-family: 'Raleway', sans-serif;
 }
 .bio{
 	line-height: 22px;
 	font-size: 15px;
 	word-spacing: 2px;
 	color: #4E4A4A;
-	font-weight: bold
+	font-weight: 100;
+    font-family: 'Raleway', sans-serif;
 }
 #home-number{
 	color: #FFDD00;
