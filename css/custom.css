@@ -441,7 +441,6 @@
 	}
 	.demo-2 .bg-img {
 		padding: 200px 200px 0px 200px;
-		height: 90vh;
 	}
 	.phone{
 		top: 100px !important;
@@ -456,6 +455,9 @@
 	}	
 	.demo-2 .sl-slider-wrapper {
 		height: 526px;
+	}
+	.phone{
+		top: 60px;
 	}
 }
 
@@ -477,7 +479,7 @@
 
 @media (max-width: 1080px){
 	.demo-2 .bg-img {
-		height: 65%;
+		height: 90vh;
 	}
 	.demo-2 .sl-slider h3 {
 		font-size: 50px;
