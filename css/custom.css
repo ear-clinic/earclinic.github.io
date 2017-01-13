@@ -688,10 +688,14 @@
 		padding-bottom: 50px;
 	}
 	.demo-2 .bg-img-1 {
-	background-image: url(../images/img1.jpg);
+	background-image: url(../images/img5.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: cover;
+	width: 500px;
+    height: 650px;
+    overflow: hidden;
+    display: block;
 	}
 	.happy-patients-grid-right img {
 		display: none;
@@ -786,6 +790,7 @@
 #home-number{
 	color: #FFDD00;
 	padding-left: 2px;
+	font-weight: 600;
 }
 #home-number:hover{
 	text-decoration: none;

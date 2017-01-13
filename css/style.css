@@ -383,7 +383,7 @@ header {
 header.logo {
     position: ABSOLUTE;
     top: 30px;
-    left: 5%;
+    left: 10%;
 }
 .cd-logo {
 	z-index: 99999;
@@ -393,6 +393,7 @@ a.cd-logo {
     font-size: 40px;
     color: #FFDD00;
 	font-family: 'Poiret One', cursive;
+	font-weight: 600;
 }
 
 @media only screen and (min-width: 768px) {
