@@ -384,10 +384,11 @@ header.logo {
 	z-index: 99999;
 }
 a.cd-logo {
-    text-decoration: none;
-    font-size: 40px;
-    color: #FFDD00;
+  text-decoration: none;
+  font-size: 40px;
+  color: #FFDD00;
 	font-family: 'Poiret One', cursive;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 768px) {
