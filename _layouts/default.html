@@ -1,0 +1,57 @@
+<!--
+Author: John Claude
+Author URL: www.johnclaude.co.za
+Designer: W3layouts
+Design URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>UCT Ear Clinic</title>
+<link href="css/pignose.layerslider.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- GA -->
+<meta name="google-site-verification" content="2gamSrp8kAlK6Sqs_NnUYv7Uttjolw0rZO94EvLS898" />
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="John Claude">
+<meta name="description" content="{{ site.description }}">
+<!-- //for-mobile-apps -->
+<!--fonts-->
+<link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+<!--//fonts-->
+<!-- js -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<!-- js -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/modernizr.custom.js"></script>
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="css/custom.css" />
+<script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
+<!-- js for news -->
+<!-- /js for news -->
+
+<!-- for smooth scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+  $(".scroll").click(function(event){
+  event.preventDefault();
+  $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+  });
+  });
+</script>
+<!-- //for smooth scrolling -->
+</head>
+<body>
+        {{ content }}
+
+        {% include analytics.html %}
+</body>
+</html>
