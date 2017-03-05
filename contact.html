@@ -1,3 +1,5 @@
+---
+---
 <!--
 Author: John Claude
 Author URL: www.johnclaude.co.za
@@ -117,7 +119,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<p>UCT Private Academic Hospital,</p>
 								<p>Anzio Road,</p>
 								<p>Observatory 8000</p>
-								<p>Telephone : 021 442 1800</p>
+                                                                <p>Western Cape</p>
+								<p>Telephone : <a href="tel:{{ site.telephone }}">{{ site.telephone }}</a></p>
 							</div>
 							<div class="clearfix"></div>
 						</div>
@@ -165,5 +168,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						});
 					</script>
 				<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+                                {% include analytics.html %}
 </body>
 </html>
