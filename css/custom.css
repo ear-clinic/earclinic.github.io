@@ -52,6 +52,7 @@
 }
 
 .demo-2 .bg-img {
+    background-color: #333;
 	padding: 200px;
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
@@ -80,7 +81,7 @@
 	text-indent: -90000px;
 	margin-top: -40px;
 	cursor: pointer;
-	
+
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -126,8 +127,8 @@
 	background: #ddd;
 	background: rgba(150,150,150,0.4);
 	cursor: pointer;
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1);
 }
 
@@ -139,16 +140,16 @@
 	-ms-transition: all 0.2s;
 	-o-transition: all 0.2s;
 	transition: all 0.2s;
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1),
 		0 0 0 2px rgba(255,255,255,0.5);
 }
 
 .demo-2 .nav-dots span.nav-dot-current,
 .demo-2 .nav-dots span:hover {
-	box-shadow: 
-		0 1px 1px rgba(255,255,255,0.4), 
+	box-shadow:
+		0 1px 1px rgba(255,255,255,0.4),
 		inset 0 1px 1px rgba(0,0,0,0.1),
 		0 0 0 5px rgba(255,255,255,0.5);
 }
@@ -449,7 +450,7 @@
 @media (max-width: 1280px){
 	.demo-2 .sl-slider h3 {
 		font-size: 65px;
-	}	
+	}
 	.demo-2 .sl-slider-wrapper {
 		height: 526px;
 	}
@@ -458,7 +459,7 @@
 @media (max-width: 1200px){
 	.demo-2 .sl-slider h3 {
 		font-size: 55px;
-	}	
+	}
 	.demo-2 .sl-slider blockquote p {
 		font-size: 18px;
 		line-height: 28px;
@@ -541,7 +542,7 @@
 	}
 }
 
-@media (max-width: 800px){	
+@media (max-width: 800px){
 	.demo-2 .sl-slider h3 {
 		font-size: 37px;
 	}
@@ -659,7 +660,7 @@
 		height: 370px;
 	}
 }
-@media screen and (max-width: 480px) {	
+@media screen and (max-width: 480px) {
 	.demo-2 .bg-img {
 		height: 48%;
 	}
@@ -713,7 +714,7 @@
 		padding-bottom: 20px;
 	}
 }
-@media screen and (max-width: 320px) {	
+@media screen and (max-width: 320px) {
 	.demo-2 .bg-img {
 		height: 44%;
 	}
@@ -788,6 +789,7 @@
 #home-number{
 	color: #FFDD00;
 	padding-left: 2px;
+        text-shadow: 2px 2px 5px red;
 }
 #home-number:hover{
 	text-decoration: none;
@@ -818,4 +820,7 @@
  	.inner-banner{
 	    min-height: 650px;
  	}
+ }
+ .cd-logo {
+        text-shadow: 2px 2px 5px red;
  }
