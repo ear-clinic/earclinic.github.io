@@ -1,3 +1,5 @@
+---
+---
 <!--
 Author: John Claude
 Author URL: www.johnclaude.co.za
@@ -85,7 +87,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-1"></div>
-							<h3 style="text-align: center"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span><a id="home-number" href="tel:0214421800">021 442 1800</a></h3>
+							<h3 style="text-align: center"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span><a id="home-number" href="tel:{{ site.telephone }}">{{ site.telephone }}</a></h3>
 						</div>
 					</div>
 				</div><!-- /sl-slider -->
@@ -242,7 +244,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<p>UCT Private Academic Hospital,</p>
 								<p>Anzio Road,</p>
 								<p>Observatory 8000</p>
-								<p>Telephone : 021 442 1800</p>
+                                                                <p>Western Cape</p>
+								<p>Telephone : <a href="tel:{{ site.telephone }}">{{ site.telephone }}</a></p>
 						 	</div>
 						 </div>
 						</div>
@@ -281,5 +284,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			});
 		</script>
 		<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-	</body>
+                {% include analytics.html %}
+</body>
 </html>
