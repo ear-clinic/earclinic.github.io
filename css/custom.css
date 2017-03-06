@@ -790,6 +790,8 @@
 	color: #FFDD00;
 	padding-left: 2px;
         text-shadow: 2px 2px 5px red;
+        font-size: 33px;
+        letter-spacing: 2px;
 }
 #home-number:hover{
 	text-decoration: none;
@@ -810,17 +812,40 @@
 }
 #mobile-text{
     text-align: right;
-  }
+}
 
- .long-desc{
- 	margin-bottom: 20px !important;
- }
+.long-desc{
+    margin-bottom: 20px !important;
+}
 
- @media screen and (min-width: 1366px){
- 	.inner-banner{
-	    min-height: 650px;
- 	}
- }
- .cd-logo {
-        text-shadow: 2px 2px 5px red;
- }
+.inner-banner{
+    min-height: 564px;
+}
+@media screen and (max-width: 1366px){
+    .inner-banner{
+	min-height: 406px;
+    }
+}
+@media screen and (max-width: 1024px){
+    .inner-banner{
+	min-height: 777px;
+    }
+}
+@media screen and (max-width: 768px){
+    .inner-banner{
+	min-height: 575px;
+    }
+}
+@media screen and (max-width: 568px){
+    .inner-banner{
+	min-height: 284px;
+    }
+}
+
+.cd-logo {
+    text-shadow: 2px 2px 5px red;
+}
+
+.banner-bottom {
+    padding: 20px 0
+}
