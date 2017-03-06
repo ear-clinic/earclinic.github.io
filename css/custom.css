@@ -849,3 +849,9 @@
 .banner-bottom {
     padding: 20px 0
 }
+
+.happy-patients a {
+    color: cyan;
+    text-decoration: underline;
+    font-size: 20px;
+}
